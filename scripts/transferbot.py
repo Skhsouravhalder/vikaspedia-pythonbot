@@ -166,7 +166,7 @@ def main(*args) -> None:
         source_link = page.title(as_link=True, insite=targetpage.site)
 
 
-        targetpage.put(text, summary=NewPages and other)
+        targetpage.put(text, summary="add")
 
 
 if __name__ == '__main__':
