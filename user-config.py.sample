@@ -2,5 +2,5 @@
 # to create your user-config.py file.
 
 mylang = 'en'
-family = 'wikipedia'
-usernames['wikipedia']['en'] = 'Test'
+family = 'Vikaspedia'
+usernames['Vikaspedia']['en'] = 'Test'
